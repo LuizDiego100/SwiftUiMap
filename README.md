@@ -10,6 +10,7 @@ Create Map in SwiftUI. Essential components in several apps. Make the component 
 Xcode 13 -
 SwiftUI 3.0 -
 MapKit -
+CoreLocation
 
 Clone this repository:
 
